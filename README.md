@@ -24,7 +24,6 @@ Developed by: Revathi
 RegisterNumber:  212221240045
 */
 
-```
 
 import numpy as np
 import matplotlib.pyplot as plt
