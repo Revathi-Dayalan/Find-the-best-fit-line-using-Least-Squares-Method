@@ -71,7 +71,6 @@ plt.show()
 y_predicted1=m*3+b
 print(y_predicted1)
 
-*/
 
 ## Output:
 ![image](https://github.com/Revathi-Dayalan/Find-the-best-fit-line-using-Least-Squares-Method/assets/96000574/4da50bec-441e-4806-b3b9-0deb7a406cee)
